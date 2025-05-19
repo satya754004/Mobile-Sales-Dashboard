@@ -59,10 +59,13 @@ The Mobile Sales Dashboard showcases sales performance metrics across multiple d
  
 ## 📷 Dashboard Preview
 View Dashboard
+
 ![Mobile sales dashboard](https://github.com/user-attachments/assets/fc77a6bb-6cb0-4f6d-8d49-b7ec425767ce)
 View MTD,QTD,YTD
+
 ![Mobile Dashboard(MTD,QTD,YTD)](https://github.com/user-attachments/assets/c56f0c2d-3877-42bf-884f-5948d810e7d3)
 View SPLY
+
 ![Mobile Dashboard(SPLY)](https://github.com/user-attachments/assets/c7c0b82c-77c7-414c-93a4-ee7672a98b8c)
 
 
